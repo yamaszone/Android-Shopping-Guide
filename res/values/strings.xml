@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidShoppingGuideActivity!</string>
+    <string name="app_name">Android Shopping Guide</string>
+    <string name="browse">Browse</string>
+    <string name="store">Store</string>
+    <string name="sale">Sale</string>
+    <string name="map_api_key">0l6n4bw1eQp-Aly0zS0GGm8TbLTYJd-g5d0WWEg</string>
+
+</resources>
